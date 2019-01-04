@@ -1,3 +1,5 @@
 console.log('Adding this file to gitHub');
 console.log('New file');
-console.log('See the changes ')
+consolelog('More info in readme.md');
+console.log('See the changes ');
+console.log('See new changes');
