@@ -13,4 +13,7 @@ git add -A => Add new files , modified files and deleted files in one go.
 6-> git log =>
 show the commit history for the currently active branch
 git log --oneline=>Show oneline-summary of commits
+<<<<<<< HEAD
 git log --oneline --graph --all --decorate => Show history of commits as graph-summary
+=======
+>>>>>>> gitlearning
