@@ -25,4 +25,10 @@ git push origin --all => push all files
 ## heading 2
 _italic text_
 **bold text like this**
-[follow link here]https://github.com/Bhanu-12/Git-learning/edit/master/readme.md
+
+[I'm an inline-style link](https://www.google.com)
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+for more [refer this link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
