@@ -31,4 +31,4 @@ _italic text_
 Inline-style: 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-for more [refer this link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+for more [refer this link] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
