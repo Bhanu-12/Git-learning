@@ -15,6 +15,11 @@ show the commit history for the currently active branch
 git log --oneline=>Show oneline-summary of commits
 git log --oneline --graph --all --decorate => Show history of commits as graph-summary
 
-Creating aliases =>
+7->Creating aliases =>
 
 git config --global alias.(name ny which we want to shorten) "command"
+8->
+git push origin --all => push all files 
+
+#heading 1
+##heading 2
