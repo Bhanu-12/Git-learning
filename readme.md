@@ -21,5 +21,8 @@ git config --global alias.(name ny which we want to shorten) "command"
 8->
 git push origin --all => push all files 
 
-#heading 1
-##heading 2
+# heading 1
+## heading 2
+_italic text_
+**bold text like this**
+[follow link here]https://github.com/Bhanu-12/Git-learning/edit/master/readme.md
